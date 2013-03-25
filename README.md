@@ -36,4 +36,4 @@ these dependencies. They've been added to this project as git submodules, so be 
 to use the --recursive option when you clone this project to make sure you also get
 all the submodules:
 
-git clone --recursive https://github.com/jmacmullin/nla-music.git
+git clone --recursive https://github.com/nla/nla-music.git
